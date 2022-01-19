@@ -1,6 +1,8 @@
-# SAE15
+﻿# SAE15
 programme trie tcpDUMP
 
+pour installer les librairies :
+pip3 install markdown mdtable
 
 excel : 
 données , convertir , virgule
